@@ -23,7 +23,7 @@ Ensure you have Python 3.11 or greater installed from https://www.python.org/dow
 
 Run `pip install jupyter` to install Jupyter Notebook.
 
-Run `juptyer-notebook egeria-lite.ipynb` to start the notebook.
+Run `jupyter-notebook egeria-lite.ipynb` to start the notebook.
 
 ## Video Tutorials
 
