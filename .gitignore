@@ -1,0 +1,34 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore user-specific Jupyter Notebook configuration files
+.jupyter/jupyter_notebook_config.py
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore .env files
+*.env
+
+# Ignore .pkl files
+*.pkl
